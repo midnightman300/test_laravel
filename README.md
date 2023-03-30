@@ -26,3 +26,8 @@ npm install
 ```
 npm run dev
 ```
+- Test code
+```
+php artisan serve
+```
+- Open the URL
